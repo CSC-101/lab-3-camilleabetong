@@ -15,3 +15,5 @@ class Lab3TestCases(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+# Question: The code was incorrect.  It was supposed to be n*2 instead of n*n
